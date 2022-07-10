@@ -300,7 +300,7 @@ footer {
 
 }
 /*Pantalla media*/
- @media (max-width:375px){
+ @media (max-width:425px){
 
 
     .logocabecera{
@@ -343,6 +343,7 @@ footer {
 
     .recetas__grid{
         grid-template-columns: 1fr;
+
     }
 
 }
